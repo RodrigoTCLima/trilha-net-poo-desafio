@@ -1,7 +1,7 @@
 using System;
 namespace DesafioPOO.Models
 {
-    // TODO: Herdar da classe "Smartphone"
+    // Done: Herdar da classe "Smartphone"
     public class Iphone : Smartphone
     {
         // DONE: Sobrescrever o método "InstalarAplicativo"
